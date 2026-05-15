@@ -28,7 +28,7 @@ organized by the Indonesian Young Scientist Association (IYSA)
 in collaboration with Universitas Sarjanawiyata Tamansiswa (UST)
 and Institut Pertanian Bogor (IPB).
 
-📄 Full extended abstract: [`paper/WYIIA2023_Extended_Abstract.pdf`](paper/WYIIA2023_Extended_Abstract.pdf)
+📄 Full extended abstract: Available upon request
 
 ---
 
